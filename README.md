@@ -1,4 +1,5 @@
 # What is service worker
+![](_screenshots/service-worker-cache.png)
 # Service worker advantages
 # Service worker disadvantages
 # How can apply service worker in ReactJS
